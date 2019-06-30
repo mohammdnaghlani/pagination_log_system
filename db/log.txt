@@ -18,4 +18,14 @@
 127.0.0.1 | /panel/add/post.php | http://myweb.co/panel/ | 2019-06-30 15:07:02 | Chrome
 127.0.0.1 | /panel/add/post.php | http://myweb.co/panel/ | 2019-06-30 15:07:22 | Chrome
 127.0.0.1 | /index.php | http://myweb.co/panel/add/post.php | 2019-06-30 15:07:24 | Chrome
-127.0.0.1 | /temp.php | http://myweb.co/ | 2019-06-30 15:07:29 | Chrome
+127.0.0.1 | /temp.php | http://myweb.co/ | 2019-06-30 15:07:29 | Chrome127.0.0.1 | /panel/index.php | http://myweb.co/pagination.php | 2019-06-30 19:38:56 | Chrome
+127.0.0.1 | /index.php | http://myweb.co/panel/ | 2019-06-30 19:39:08 | Chrome
+127.0.0.1 | /panel/index.php | http://myweb.co/ | 2019-06-30 19:39:10 | Chrome
+127.0.0.1 | /index.php | http://myweb.co/panel/ | 2019-06-30 19:39:11 | Chrome
+127.0.0.1 | /panel/index.php | http://myweb.co/pagination.php | 2019-06-30 19:44:39 | Chrome
+127.0.0.1 | /posts.php | http://myweb.co/pagination.php | 2019-06-30 19:44:40 | Chrome
+127.0.0.1 | /panel/index.php | http://myweb.co/pagination.php | 2019-06-30 19:44:40 | Chrome
+127.0.0.1 | /posts.php | http://myweb.co/pagination.php | 2019-06-30 19:44:41 | Chrome
+127.0.0.1 | /panel/index.php | http://myweb.co/pagination.php | 2019-06-30 19:44:41 | Chrome
+127.0.0.1 | /posts.php | http://myweb.co/ | 2019-06-30 19:45:58 | Chrome
+127.0.0.1 | /index.php | http://myweb.co/posts.php | 2019-06-30 19:46:00 | Chrome

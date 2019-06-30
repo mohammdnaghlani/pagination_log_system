@@ -49,8 +49,10 @@ function get_view_log()
 
     $read_file = file_get_contents(BASE_PATH . 'db/log.txt');
     $content_to_array = explode(PHP_EOL, $read_file);
+    array_pop($content_to_array);
     $temp = null;
     foreach ( $content_to_array as $key => $item) {
+        
         list(
             $temp[$key]['ip'],
             $temp[$key]['location'],
